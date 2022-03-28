@@ -45,7 +45,7 @@ button:disabled{
 }
 
 
-@media screen and(max-width:1000px){
+@media only screen and (max-width:1000px){
   .container{
     background-size: cover;
     background-position: center top; !important
